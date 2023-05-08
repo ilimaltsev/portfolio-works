@@ -1,1 +1,37 @@
-
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Мои проекты</title>
+    </head>
+    <body>
+        <header>
+            <h1> Портфолио</h1>
+                <a href="">Главная</a>
+                <a href="">Увлечения</a>
+                <a href="">Полезная инфа</a>
+        </header>
+        <main>
+            <img src = "">
+            <p>Во создания сайтов мы использовали веб-хостинги:
+                <ul type ="circle">
+                    <li>Tilda</li>
+                        <ul type ="square">
+                            <li><a href = "http://winnie.the.pooh.tilda.ws/veselayasemeika">Весёлая Семейка</a></li>
+                            <li><a href = "http://winnie.the.pooh.tilda.ws/minekea/home">minekea</a></li>
+                            <li><a href = "http://winnie.the.pooh.tilda.ws/a380">airbus a380-800</a></li>
+                        </ul>
+                    <li>GitHub</li>
+                        <ul type ="square">
+                            <li><a href = "https://ilimaltsev.github.io/nn-ng/">НН - Новогодняя Столица России</a></li>
+                            <li><a href = "https://github.com/ilimaltsev/phone-repair">Phone Repair</a></li>
+                            <li><a href = "https://ilimaltsev.github.io/veselaya_semeyka/">Весёлая Семейка (HTML)</a></li>
+                        </ul>
+                </ul>
+            </p>
+        </main>
+        <footer>
+        <h2>Мой ютуб канал - </h2>
+        <a class ="hhh" href="https://youtube.com/@alini_yt">ALINI EvErYdAy</a>
+        </footer>
+    </body>
+</html>
